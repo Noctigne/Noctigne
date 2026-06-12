@@ -1,5 +1,5 @@
 <p align="center">
-  <b><font size="6">👋 Hi, I'm Noctigne </font></b>
+  <b><font size="100">👋 Hi, I'm Noctigne </font></b>
 </p>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:EEFF00,25:00FF99,50:00BFFF,75:8A2BE2,100:FF1493&height=2"/>
 
