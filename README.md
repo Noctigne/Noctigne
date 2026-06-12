@@ -1,0 +1,4 @@
+<p align="center">
+  <a href="https://github.com/Noctigne" target="_blank"><img src="https://github-readme-stats-five-sigma-90.vercel.app/api?username=Noctigne&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gotham&locale=en&hide_border=false&custom_title=%F0%9F%93%96%20Github%20Stats" height="150" alt="Global GitHub Stats for Noctigne" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Noctigne" target="_blank"><img src="https://github-readme-stats-five-sigma-90.vercel.app/api/top-langs?username=Noctigne&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false&custom_title=%E2%9C%A8%20Language%20Stats" height="150" alt="Top Languages for Noctigne" /></a>
+</p>
