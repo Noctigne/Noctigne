@@ -20,7 +20,7 @@ I'm a developer currently studying at 42, where I deepen my understanding of **c
 
 ### Languages :
 
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
+<img src="https://img.shields.io/badge/Rust-F05032?style=for-the-badge&logo=rust&logoColor=white">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
 <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
